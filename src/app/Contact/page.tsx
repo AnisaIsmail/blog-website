@@ -8,7 +8,7 @@ export default function Contact() {
                 Join The Conversation!
             </h3>
             <h5 className="shopPara text-center text-sm md:text-base mt-8">
-                <span className="font-bold"> "We value your feedback and inquiries.
+                <span className="font-bold">We value your feedback and inquiries. 
                     <br />
                      If you have any questions about our Blog website or would like to share your suggestions,
                       please feel free to reach out to us.
@@ -17,7 +17,7 @@ export default function Contact() {
                        <br />
                         You can contact us via email, phone, or by filling out the form below.
                         <br />
-                         Your input is invaluable to us, and our team is always ready to assist you." </span>
+                         Your input is invaluable to us, and our team is always ready to assist you. </span>
             </h5>
 
             {/* Contact Form Section */}

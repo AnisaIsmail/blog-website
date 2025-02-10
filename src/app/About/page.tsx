@@ -24,7 +24,7 @@ export default function About() {
         </p>
         <br />
         <p>
-          Whether you're here to discover new perspectives, gain knowledge, or
+          Whether you`re here to discover new perspectives, gain knowledge, or
           simply enjoy a great read, we are here for you. Thank you for being
           part of our journey.
         </p>
